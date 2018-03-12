@@ -5,3 +5,6 @@ Distributed Rate Limit Manager can be used to manage rate limiting in distribute
 1. No single point of failure
 2. No tolerance of intermittent spikes
 3. High performance and low overhead
+
+Credits: Original Rate Limit Manager code - //todo: add ratelimitmgr link here
+
